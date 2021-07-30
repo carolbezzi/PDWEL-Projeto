@@ -1,16 +1,12 @@
-# PDWEL-Projeto
-Projeto final de avaliação da disciplina PDWEL.
+# PDWEL
 
-Integrantes:
+### _Projeto final de avaliação da disciplina PDWEL - Programação Dinâmica para Web_
 
+O projeto se trata de cadastro de produtos, com autenticação de usuário.
 
-Ana Carolina B. P. de Moraes - SP3017206
+### Alunos Integrantes
 
-Debora de Aguiar Boni - SP3021599
-
-Rebeca de Souza Santos - SP3013341
-
-Vitor Massao Sugai - SP3013511
-
-
-CRUD de cadastro de produtos, com login e senha.
+- Ana Carolina B. P. de Moraes - SP3017206
+- Debora de Aguiar Boni - SP3021599
+- Rebeca de Souza Santos - SP3013341
+- Vitor Massao Sugai - SP3013511
