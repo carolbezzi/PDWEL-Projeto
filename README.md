@@ -12,3 +12,5 @@ Rebeca de Souza Santos - SP3013341
 
 Vitor Massao Sugai - SP3013511
 
+
+CRUD de cadastro de produtos, com login e senha.
