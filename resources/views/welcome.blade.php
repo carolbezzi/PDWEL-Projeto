@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Crud Produtos</title>
+    <title>Projeto PDWEL - Cadastro de Produtos</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -18,7 +18,7 @@
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                Crud Produtos - Laravel
+                Cadastro de Produtos
             </div>
 
             <div class="links">
