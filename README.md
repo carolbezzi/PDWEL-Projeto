@@ -13,13 +13,13 @@ O projeto se trata de cadastro de produtos, com autenticação de usuário.
 
 ## Frameworks 
 
-[Bootstrap](https://getbootstrap.com/)
-[Laravel](https://laravel.com/)
+-[Bootstrap](https://getbootstrap.com/)
+-[Laravel](https://laravel.com/)
 
 ## Pré-requisitos
 
-[XAMPP](https://www.apachefriends.org/pt_br/index.html).
-[Composer](https://getcomposer.org/download/).
+-[XAMPP](https://www.apachefriends.org/pt_br/index.html).
+-[Composer](https://getcomposer.org/download/).
 
 ## Instalação
 
